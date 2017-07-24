@@ -1,0 +1,24 @@
+body{
+
+		padding-top: 100px;
+	    background-image: url("cinee.jpeg");
+}
+
+nav{
+		background-color: blue;
+
+}
+
+nav a{
+		color: #ffffff;
+}
+
+.next{
+		padding-left:  980px;
+		color: green;
+}
+
+
+.previous{
+		color: red;
+}
